@@ -13,3 +13,15 @@ Rename the sum to "Total_Products_Sold".https://www.youtube.com/watch?v=6eJlRVyg
 Github Copoilot to explain / assist with errors and direction.
 
 Last 2 itesm need to be compelted, under review.
+
+
+21 April 2024
+
+Re-evaluated all variables to ensure unique for each home work item.
+Updated last 2 homework items, matching homework output.  
+
+Homework Output:
+Combine and Clean the Data
+![alt text](df_dtypes.png)   ![alt text](df2_dtypes.png)
+
+![alt text](combined_df_null_check.png)
