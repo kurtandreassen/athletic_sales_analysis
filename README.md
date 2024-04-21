@@ -12,11 +12,15 @@ Rename the sum to "Total_Products_Sold".https://www.youtube.com/watch?v=6eJlRVyg
 
 Github Copoilot to explain / assist with errors and direction.
 
-Last 2 itesm need to be compelted, under review.
+Last 2 items need to be completed, under review.
 
 
 21 April 2024
 
 Re-evaluated all variables to ensure unique for each home work item.
 Updated last 2 homework items, matching homework output.  
+
+Confirmed for all homework itmes match expected resulted documented in homework challenge instructions.
+
+
 
