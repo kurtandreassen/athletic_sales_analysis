@@ -20,9 +20,3 @@ Last 2 itesm need to be compelted, under review.
 Re-evaluated all variables to ensure unique for each home work item.
 Updated last 2 homework items, matching homework output.  
 
-Homework Output:
-Combine and Clean the Data
-
-![alt text](df_dtypes.png)   
-![alt text](df2_dtypes.png)
-![alt text](combined_df_null_check.png)
