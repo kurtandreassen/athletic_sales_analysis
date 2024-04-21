@@ -22,6 +22,7 @@ Updated last 2 homework items, matching homework output.
 
 Homework Output:
 Combine and Clean the Data
-![alt text](df_dtypes.png)   ![alt text](df2_dtypes.png)
 
+![alt text](df_dtypes.png)   
+![alt text](df2_dtypes.png)
 ![alt text](combined_df_null_check.png)
